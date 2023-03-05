@@ -11,7 +11,7 @@
 - dplayer
 
 后端项目：
-- 后端接口：https://github.com/zloong921/onlineVideo
+- 后端接口：https://github.com/cseric/onlineVideo
 
 相关项目：
-- 用户前台：https://github.com/zloong921/onlineVideo_front
+- 用户前台：https://github.com/cseric/onlineVideo_front
